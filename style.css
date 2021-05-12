@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(245, 226, 204);
+}
+
+#title {
+    margin-top: 35px;
+    text-align: center;
+    line-height: 55px;
+}
+
+#title h1 {
+    font-size: 60px;
+    color: rgb(155, 6, 118);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#title p {
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+}
+
+img {
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    width: 550px;
+    height: 650px;
+}
+
+#img-caption {
+    text-align: right;
+}
+
+#tribute-info ul {
+    margin-top: 55px;
+    margin-left: 40px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+h2 {
+    margin-left: 45px;
+    color: rgb(155, 6, 118);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#para ul {
+    margin-top: 20px;
+    margin-left: 90px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+h3 {
+    color: rgb(155, 6, 118);
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 25px;
+    text-align: center;
+}
+
+#quote ul {
+    margin-top: 20px;
+    margin-left: 110px;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+#quote p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+.footer {
+    width: 100%;
+    text-align: center;
+}
+
+.footer p {
+    background-color: rgb(211, 198, 198);
+    font-weight: bold;
+}
+
+.icons .fa {
+    color: rgb(100, 5, 145);
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+    background-color: rgb(211, 198, 198);
+}
